@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16891" started-at="2021-02-01T23:35:52Z" finished-at="2021-02-01T23:36:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16891" started-at="2021-02-01T23:35:52Z" finished-at="2021-02-01T23:36:08Z">
+      <class name="Test_Cases.Registration">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Test_Cases.Registration@26653222]" name="beforeTest" is-config="true" duration-ms="5272" started-at="2021-02-02T01:35:52Z" finished-at="2021-02-02T01:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="Login_button()[pri:1, instance:Test_Cases.Registration@26653222]" name="Login_button" duration-ms="3195" started-at="2021-02-02T01:35:57Z" finished-at="2021-02-02T01:36:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_button -->
+        <test-method status="PASS" signature="Vaild_Data()[pri:2, instance:Test_Cases.Registration@26653222]" name="Vaild_Data" duration-ms="7213" started-at="2021-02-02T01:36:00Z" finished-at="2021-02-02T01:36:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Vaild_Data -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Test_Cases.Registration@26653222]" name="afterTest" is-config="true" duration-ms="1176" started-at="2021-02-02T01:36:07Z" finished-at="2021-02-02T01:36:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Test_Cases.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
